@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BubbleShowCase.iml" filepath="$PROJECT_DIR$/BubbleShowCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BubbleShowCase-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BubbleShowCase-app.iml" group="BubbleShowCase/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bubbleshowcase/BubbleShowCase-bubbleshowcase.iml" filepath="$PROJECT_DIR$/.idea/modules/bubbleshowcase/BubbleShowCase-bubbleshowcase.iml" group="BubbleShowCase/bubbleshowcase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Downloads-BubbleShowCase.iml" filepath="$PROJECT_DIR$/.idea/modules/Downloads-BubbleShowCase.iml" group="BubbleShowCase" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubbleshowcase/bubbleshowcase.iml" filepath="$PROJECT_DIR$/bubbleshowcase/bubbleshowcase.iml" />
+      <module fileurl="file://C:/Users/jcampos/StudioProjects/BubbleShowCase/bubbleshowcase/bubbleshowcaseview.iml" filepath="C:/Users/jcampos/StudioProjects/BubbleShowCase/bubbleshowcase/bubbleshowcaseview.iml" />
+    </modules>
+  </component>
+</project>
